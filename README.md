@@ -15,7 +15,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
 </div>
+<br>
+<div align=center>
+  
+![Jessicas GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicarosier&show_icons=true&theme=radical)
 
+</div>
 <h2>Most recent project:</h2>
 
 https://github.com/jessicarosier/jessicarosier/assets/140553655/23dedcf1-d4a9-4cf5-a8b8-fccc8bd6cae5
