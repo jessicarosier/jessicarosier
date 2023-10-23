@@ -21,10 +21,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessicarosier&size_weight=0.5&count_weight=0.5&layout=compact&theme=chartreuse-dark&langs_count=10">
 
-</div>
-<h2>Most recent project:</h2>
+<br>
+<br>
 
-https://github.com/jessicarosier/jessicarosier/assets/140553655/23dedcf1-d4a9-4cf5-a8b8-fccc8bd6cae5
+[![GitHub Streak](https://streak-stats.demolab.com?user=jessicarosier&theme=radical&hide_border=true&exclude_days=Sun%2CSat&card_width=500)](https://git.io/streak-stats)
+
+</div>
+
+
+
+
 
 
 
