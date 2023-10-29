@@ -7,6 +7,11 @@
 <div align="center">
   Connect with me on <a href= "https://www.linkedin.com/in/jessica-rosier"/><strong>LinkedIn</strong></a> 
 </div>
+<div align="center">
+  <a href= "https://jessicarosier.com/"/><strong>Click here</strong></a> to checkout my portfolio!
+</div>
+
+
 <br>
 <div align=center>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;">
