@@ -26,6 +26,7 @@
 
 <br>
 <br>
+  <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jessicarosier&theme=radical&hide_border=true&2CSat&card_width=500)](https://git.io/streak-stats)
 
