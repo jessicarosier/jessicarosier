@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m @jessicarosier</h1>
 <ul align="center">
-<li> I'm a coding bootcamp student with a deep-rooted passion for technology and software development. Fully committed to becoming a skilled developer who can tackle complex challenges and deliver exceptional solutions!</li>
+<li> I'm a full stack web developer with a deep-rooted passion for technology, fully committed to becoming a skilled developer capable of tackling the most complex challenges and delivering exceptional solutions!</li>
 </ul>
 <br>
 
