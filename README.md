@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I’m @jessicarosier</h1>
 <ul align="center">
 <li> I'm a full stack web developer with a deep-rooted passion for technology, fully committed to becoming a skilled developer capable of tackling the most complex challenges and delivering exceptional solutions!</li>
+  <li>Im currently learning Svelte!
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40" style="max-width: 100%;">
+  </li>
 </ul>
 <br>
 
