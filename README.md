@@ -6,7 +6,6 @@
   </li>
 </ul>
 <br>
-
 <div align="center">
   Connect with me on <a href= "https://www.linkedin.com/in/jessica-rosier"/><strong>LinkedIn</strong></a> 
 </div>
