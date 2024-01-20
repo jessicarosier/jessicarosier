@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I’m @jessicarosier</h1>
-<ul align="center">
-<li> I'm a full stack web developer with a deep-rooted passion for technology, fully committed to becoming a skilled developer capable of tackling the most complex challenges and delivering exceptional solutions!</li>
-  <li>Im currently learning Svelte!
+
+<p align="center"> I'm a full stack web developer with a deep-rooted passion for technology, fully committed to becoming a skilled developer capable of tackling the most complex challenges and delivering exceptional solutions!</p>
+  <p align="center">Im currently learning Svelte!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" alt="svelte" width="40" height="40" style="max-width: 100%;">
-  </li>
-</ul>
+  </p>
+
 <br>
 <div align="center">
-  Connect with me on <a href= "https://www.linkedin.com/in/jessica-rosier"/><strong>LinkedIn</strong></a> 
+  Connect with me on <a href= "https://www.linkedin.com/in/jessica-rosier"/><strong>LinkedIn</strong></a> or <a href= "https://social-links.jessicarosier.com/"/><strong>other social platforms</strong></a>
 </div>
 <div align="center">
   <a href= "https://jessicarosier.com/"/><strong>Click here</strong></a> to checkout my portfolio!
